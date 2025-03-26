@@ -1,0 +1,30 @@
+section.about-us {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+    padding: 96px 0;
+}
+
+p.about-us__subheading {
+    color: var(--color-text-subheading-section-about);
+    font-weight: 600;
+}
+
+h1.about-us__title {
+    color: var(--color-text-title-section-about);
+    font-size: 3rem;
+    font-weight: 600;
+    padding: 0 32px;
+}
+
+p.about-us__paragraph {
+    color: var(--color-text-paragraph-section-about);
+    font-size: 1.25rem;
+    font-weight: 400;
+    padding-top: 12px;
+    width: 792px;
+    line-height: 30px;
+    text-align: center;
+}

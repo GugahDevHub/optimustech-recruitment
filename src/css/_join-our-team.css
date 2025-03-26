@@ -1,0 +1,106 @@
+section.join-our-team {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 64px;
+    padding: 94px;
+}
+
+/* Parte 1 - Talent Pool */
+article.talent-pool {
+    display: flex;
+    flex-direction: column;
+    gap: 64px;
+}
+
+div.container-talent-pool {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 32px;
+}
+
+article.talent-pool {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+p#talent-pool-subheading {
+    color: var(--color-text-subheading-section-join-our-team);
+    font-size: 0.875rem;
+    font-weight: 500;
+    line-height: 20px;
+}
+
+h2#talent-pool-title {
+    color: var(--color-text-title-section-join-our-team);
+    font-size: 2.25rem;
+    font-weight: 600;
+    line-height: 44px;
+}
+
+p#talent-pool-description {
+    color: var(--color-text-description-section-join-our-team);
+    font-size: 1.25rem;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+/* Caso opte por modificar o tamanho da imagem da equipe OptimusTech on the job */
+/* img#teamworking-photo {
+    width: 90%;
+} */
+
+/* Parte 2 - Categories */
+article.jobs-post {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 64px;
+    width: 750px;
+}
+
+div.container-jobs-post {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+}
+
+div.container-jobs-post h3 {
+    font-size: 1.25rem;
+    font-weight: 500;
+    line-height: 30px;
+}
+
+div.jobs-post {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+div.container-job-post {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    padding: 24px 24px 28px 24px;
+}
+
+div.container-job-post h4 {
+    color: var(--color-text-category-section-join-our-team);
+    font-size: 1.125rem;
+    font-weight: 500;
+    line-height: 28px;
+}
+
+div.container-job-post-info {
+    display: flex;
+    gap: 24px;
+}
+
+div.container-job-post-info p {
+    color: var(--color-text-description-section-join-our-team);
+}

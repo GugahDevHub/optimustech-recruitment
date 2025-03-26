@@ -1,0 +1,56 @@
+
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 32px;
+    gap: 32px;
+}
+
+div.container-logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+
+    margin-right: 119px;
+}
+
+img#logotipo-image {
+    width: 27px;
+}
+
+p#logotipo-text-name {
+    font-weight: 500;
+    font-size: 1.125rem;
+}
+
+.navbar__list {
+    display: flex;
+    gap: 40px;
+    margin-right: 380px;
+}
+
+.navbar a {
+    color: var(--color-text-navbar-section-header);
+}
+
+div.container-sign {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+#button-sign-in {
+    color: var(--color-text-sign-in-section-header);
+}
+
+#button-sign-up {
+    color: var(--color-text-button-sign-up-section-header);
+    background-color: var(--color-button-sign-up-section-header);
+
+    padding: 10px 18px;
+    border-radius: 8px;
+}

@@ -1,0 +1,18 @@
+@import url(../css/_reset.css);
+@import url(../css/_variables.css); /* Color | Fonts */
+
+@import url(../css/_header.css);
+@import url(../css/_about-us.css);
+@import url(../css/_kpis.css); /* Sessão de Métricas */
+@import url(../css/_join-our-team.css);
+@import url(../css/_feedbacks.css);
+@import url(../css/_footer.css);
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: var(--font-text-inter);
+    font-size: 1rem;
+}

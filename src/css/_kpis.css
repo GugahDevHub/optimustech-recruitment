@@ -1,0 +1,37 @@
+/* Sessão de Métricas | KPIs é o acrônimo de Key Performance Indicators */
+
+section.kpis {
+    padding: 0 80px 96px 80px;
+}
+
+div.container__kpis {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 64px;
+    padding: 0 32px;
+}
+
+div.container-kpis {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 280px;
+}
+
+p.kpis-numbers {
+    color: var(--color-text-numbers-section-kpis);
+    font-size: 3.75rem;
+    font-weight: 600;
+}
+
+p.kpis-title {
+    color: var(--color-text-title-section-kpis);
+    font-size: 1.125rem;
+    font-weight: 500;
+}
+
+p.kpis-description {
+    font-weight: 400;
+    line-height: 24px;
+}

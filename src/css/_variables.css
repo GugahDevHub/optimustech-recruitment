@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+:root {
+    /* Aparentemente existe apenas uma fonte textual... */
+    --font-text-inter: "Inter", sans-serif;
+
+    /* ----------------------------------------------------------- */
+
+        /* Header | Colors */
+        --color-text-logo-section-header: #3A404E;
+        --color-text-navbar-section-header: #667085;
+        --color-text-sign-in-section-header: #667085;
+        --color-text-button-sign-up-section-header: #FFF;
+        --color-button-sign-up-section-header: #8E2424;
+
+        /* Header | Fonts */
+        --font-text-logotipo-name: "Inter", sans-serif;
+
+    /* ----------------------------------------------------------- */
+
+        /* Section - About us */
+        --color-text-subheading-section-about: #8E2424;
+        --color-text-title-section-about: #101828;
+        --color-text-paragraph-section-about: #667085;
+
+    /* ----------------------------------------------------------- */
+
+        /* Section - Métricas ou KPIs */
+        --color-text-numbers-section-kpis: #8E2424;
+        --color-text-title-section-kpis: #101828;
+        --color-text-description-section-kpis: #667085;
+
+    /* ----------------------------------------------------------- */
+
+        /* Section - Join our Team */
+        --color-text-subheading-section-join-our-team: #8E2424;
+        --color-text-title-section-join-our-team: #101828;
+        --color-text-description-section-join-our-team: #667085;
+        --color-text-category-section-join-our-team: #101828;
+        --color-text-job-section-join-our-team: #101828;
+
+    /* ----------------------------------------------------------- */
+
+        /* Section - Feedbacks */
+        --color-text-subheading-section-feedbacks: #8E2424;
+        --color-text-feedbacks-section-feedbacks: #101828;
+        --color-text-persona-name-section-feedbacks: #101828;
+        --color-text-persona-role-section-feedbacks: #667085;
+
+    /* ----------------------------------------------------------- */
+
+        /* Footer */
+        --color-background-footer: #F9FAFB;
+        --color-text-cta-title-footer: #101828;
+        --color-text-cta-description-footer: #667085;
+        --color-button-email-catcher-footer: #8E2424;
+        --color-text-input-email-catcher-footer: #667085;
+        --color-stroke-input-email-catcher-footer: #D0D5DD;
+    
+    /* ----------------------------------------------------------- */
+}
