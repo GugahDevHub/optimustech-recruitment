@@ -42,7 +42,7 @@ Durante este projeto, praticamos conceitos essenciais do **Front-end**, como:
 ## 🔧 Como Executar o Projeto Localmente
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/GugahDevHub/optimustech-7doc.git
+   git clone https://github.com/GugahDevHub/optimustech-recruitment.git
    ```
 2. Acesse a pasta do projeto:
    ```bash
@@ -52,14 +52,14 @@ Durante este projeto, praticamos conceitos essenciais do **Front-end**, como:
 
 ## 📸 Demonstração  
 
-🔗 [Acesse a versão online do projeto](#) *(caso esteja hospedado no GitHub Pages, Vercel, Netlify, etc.)*  
+🔗 [Acesse a versão online do projeto](#)
 
 ---
 
 ## 🎥 Visualização do Projeto
 
 📌 Veja o projeto em ação com um **.GIF demonstrativo**:  
-![Demonstração do Projeto | OptimusTech](./src/assets/gifs/project-preview/my-project.gif)
+![Demonstração do Projeto | OptimusTech - Plataforma de Recrutamento](./src/assets/gifs/project-preview/my-project.gif)
 
 
 ---
@@ -70,7 +70,7 @@ Para mais projetos e conteúdos sobre desenvolvimento, me siga e conecte-se comi
 
 📌 GitHub: [GugahDevHub](https://github.com/GugahDevHub) 
 📌 LinkedIn: [GugahDevHub](https://www.linkedin.com/in/gugahdevhub) 
-📌 Projeto: [OptimusTech - Plataforma de Recrutamento](https://github.com/GugahDevHub/optimustech-7doc)
+📌 Projeto: [OptimusTech - Plataforma de Recrutamento](https://github.com/GugahDevHub/optimustech-recruitment/)
 
 💡 Feedbacks e sugestões são sempre bem-vindos! 🚀
 
