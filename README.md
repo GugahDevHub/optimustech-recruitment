@@ -52,7 +52,7 @@ Durante este projeto, praticamos conceitos essenciais do **Front-end**, como:
 
 ## 📸 Demonstração  
 
-🔗 [Acesse a versão online do projeto em desenvolvimento](#)
+🔗 [Acesse a versão online do projeto em fase de desenvolvimento](#)
 
 ---
 
